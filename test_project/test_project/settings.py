@@ -76,7 +76,8 @@ USE_L10N = True
 USE_TZ = True
 
 TEMPLATE_DIRS = (
-'/home/rupak/Desktop/My Git project/Truckers/test_project/templates',
+	os.path.join(BASE_DIR, "templates"),
+#'/home/rupak/Desktop/My Git project/Truckers/test_project/templates',
 )
 
 # Static files (CSS, JavaScript, Images)
