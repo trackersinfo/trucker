@@ -1,2 +1,2 @@
 # trucker
-This is a testing perpos project.
+This is a testing purpose project.
